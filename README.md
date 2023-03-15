@@ -1,4 +1,4 @@
-# Sklearn_Regresion_Lineal
+# Sklearn_Regresion_Lineal_Variables_Nota_Vino
 
 OBJETIVOS 
 
